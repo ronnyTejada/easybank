@@ -1,0 +1,41 @@
+.paginate{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #E5E7EB;
+
+}
+
+.paginate__item{
+    margin-right: 15px;
+    width: 41px;
+}
+
+.paginate__item:hover{
+    background-color:#E5E7EB;
+}
+
+.paginate__item--active{
+    border-top: 2px solid #84E1A7;
+
+}
+
+.btn__wrapper{
+   
+    display: flex;
+    justify-content: space-between;
+}
+
+.paginate__btn{
+    font-family: 'Public Sans';
+    font-weight: 500;
+    font-size: 14px;
+    color: #6B7280;
+    background-color: transparent;
+    border: none;
+}
+
+.paginate__wrapper:active{
+    background-color:#e2e2e2;
+   
+}

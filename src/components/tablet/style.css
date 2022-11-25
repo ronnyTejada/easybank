@@ -1,0 +1,60 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.06);
+  border-spacing: 0;
+  width: 100%;
+ margin-bottom: 100px;
+ border-radius: 10px;
+ border: none;
+  
+}
+
+
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+ 
+}
+
+
+td{
+    border: none;
+    font-family: 'Public Sans';
+    color: #6b7280;
+    padding-left: 22px;
+}
+
+.author{
+    color:black;
+    
+}
+
+th{
+    text-transform: uppercase;
+    font-family: "Public Sans";
+    font-weight: 400;
+    font-size: 12px;
+    color: #6b7280;
+   
+    padding-left: 24px;
+    height: 33px;
+    border: none;
+    background-color:  #F4F5F7;
+}
+
+tr:nth-child(even) {
+  background-color: #F4F5F7;
+}
+
+.delete{
+    color: red;
+    margin-right: 10px;
+}
+
+.edit{
+    color: #84E1A7;
+}

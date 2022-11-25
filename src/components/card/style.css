@@ -1,0 +1,20 @@
+.card{
+    width: 260px;
+    height: 399px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+}
+
+.card__textWrapper{
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 26px;
+}
+
+.card__content{
+    font-weight: 400px;
+    position: relative;
+    top: -80px;
+    font-size: 13px;
+    color: #959499;
+}

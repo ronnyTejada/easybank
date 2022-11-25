@@ -1,0 +1,9 @@
+.container{
+    padding-left: 165px;
+    padding-right: 165px;
+}
+
+.form_section{
+    display: flex;
+    justify-content: center;
+}

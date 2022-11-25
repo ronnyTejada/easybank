@@ -1,0 +1,14 @@
+.btn{
+    border: none;
+    width: 165px;
+    height: 45px;
+    background: linear-gradient(90deg, #31CF70 4.85%, #2CB9CB 100%);
+    border-radius: 89px;
+    color: #FFFFFF;
+    font-weight: 700;
+}
+
+.btn--wd-100{
+    width: 100%;
+}
+

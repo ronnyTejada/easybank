@@ -1,0 +1,18 @@
+.sections{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    align-items: center;
+    align-content: center;
+}
+
+.sections__section{
+    color:#99989D;
+
+}
+
+.sections__section:hover{
+    color:#6a6a6a;
+}
+

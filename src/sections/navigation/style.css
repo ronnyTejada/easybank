@@ -1,0 +1,17 @@
+.nav{
+    background-color: #FFFFFF;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 165px;
+    padding-right: 165px;
+
+}
+
+@media screen and (max-width: 978px) {
+    .nav{
+        flex-direction: column;
+        height: auto;
+    }
+}

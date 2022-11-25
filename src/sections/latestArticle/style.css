@@ -1,0 +1,11 @@
+.card__section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.containerLast{
+    padding-left: 165px;
+    padding-right: 165px;
+}
